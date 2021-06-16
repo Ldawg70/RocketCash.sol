@@ -6,14 +6,17 @@
 
 
 
-RocketCash
 
-Smart Contract
+
+
+                       RocketCash
+
+                    Smart Contract
 
 
 ------------------------------------------------------------------------
 
 
-About
+                          About
 
 RocketCash is a Defi, and community-guided Token. It is a simple concept, Burn, Redistribute, and Finance.
